@@ -14,7 +14,10 @@
 **GitHub Repository URL: https://github.com/dbosket/iot-venture-cranium**
 
 ## Concept Development
-
+- **Create a device block diagram that details the power architecture, microcontroller, & peripherals**
+  ![Block diagram](<./pics/Block Diagram.png>)
+- **Create a communication diagram**
+  ![Block diagram](<./pics/Communication Diagram.png>)
 
 ### Product Function
 
